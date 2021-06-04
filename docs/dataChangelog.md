@@ -1,7 +1,14 @@
 
 # Data Changelog
 
-## 0601
+## v1.18.2
+
+> (date released: 20210604)
+
+图片访问速度优化。
+
+
+## v1.18.0
 
 > (date released: 20210601)
 

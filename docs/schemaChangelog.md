@@ -1,7 +1,7 @@
 
 # Schema Changelog
 
-## 1.17
+## 1.18
 
 > (date released: 20210601)
 
