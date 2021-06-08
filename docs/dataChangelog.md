@@ -1,6 +1,15 @@
 
 # Data Changelog
 
+## V1.8.3
+
+> (date released: 20210608)
+
+- Quizlet全部单词已添加完。
+- 西简精读第一课课程及阅读材料相关实体添加。
+
+nodes 307, link 441
+
 ## v1.8.2
 
 > (date released: 20210604)
