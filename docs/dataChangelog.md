@@ -1,6 +1,14 @@
 
 # Data Changelog
 
+## V1.8.6
+
+> (date released: 20210628)
+
+- 西简精读第四课课程及阅读材料相关实体添加，新增了一些中信新思最新书籍，欢迎您来查看。
+
+nodes 429, link 697
+
 ## V1.8.5
 
 > (date released: 20210621)
