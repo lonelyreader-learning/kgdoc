@@ -1,6 +1,15 @@
 
 # Data Changelog
 
+
+## V1.9.4
+
+> (date released: 20210802)
+
+- 西方文明简史（英文版）16-25章章节添加
+
+nodes 812, link 1376
+
 ## V1.9.3
 
 > (date released: 20210726)
